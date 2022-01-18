@@ -1,0 +1,10 @@
+.alerta {
+	&.error {
+		background-color:$rojo;
+		font-weight: $bold;
+		text-transform: uppercase;
+		color: $blanco;
+		padding: 1rem;
+		margin: 1rem 0;
+	}
+}
